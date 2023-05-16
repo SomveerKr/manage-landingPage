@@ -3,7 +3,7 @@
 # manage: A landing page using tailwindCss
 It is a simple landing page of a company called manage.
 
-### [Page is Live Here...]()
+### [Page is Live Here...](https://somveerkr.github.io/manage-landingPage/)
 
 ## Preview
 ![manage screenshot](./images/manage.PNG)
